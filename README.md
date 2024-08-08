@@ -1,4 +1,7 @@
-## Hi there 👋
+##  Bem-Vindo ao meu perfil 😸
+Meu nome é Felipe Pancini
+Sou estudante do terceiro ano EM
+Utilizo esse espaço para compartilhar meus projetos e códigos
 
 <!--
 **FELIPEPAN3S2024/FELIPEPAN3S2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
