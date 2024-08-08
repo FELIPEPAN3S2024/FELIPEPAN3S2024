@@ -1,6 +1,8 @@
 ##  Bem-Vindo ao meu perfil 😸
 Meu nome é Felipe Pancini
+
 Sou estudante do terceiro ano EM
+
 Utilizo esse espaço para compartilhar meus projetos e códigos
 
 <!--
